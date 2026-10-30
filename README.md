@@ -923,7 +923,7 @@ warehouseId
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/Aditya2584/Agriculture-Logistics.git
+git clone https://github.com/PoorneshGowda21/CBA_LOGESTIC_MINI_PROJECT.git
 ```
 
 ```bash
